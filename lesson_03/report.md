@@ -1,12 +1,10 @@
 # Отчёт. Уточняем требования
 
-Замените `[[...]]` своими ссылками. Снимки загрузите в `screenshots/`.
+Репозиторий: https://github.com/altemmaworsekitten/projectManagment
 
-Репозиторий: [[ССЫЛКА_НА_СВОЙ_РЕПОЗИТОРИЙ]]
+Проект: https://b24-ht0t2k.bitrix24.ru/workgroups/group/2/tasks/
 
-Проект: [[ССЫЛКА_НА_СВОЙ_ПРОЕКТ]]
-
-Задача: [[ССЫЛКА_НА_ЗАДАЧУ_О_ПРОВЕРКАХ]]
+Задача: https://b24-ht0t2k.bitrix24.ru/workgroups/group/2/tasks/task/view/6/
 
 ## Скриншоты
 
